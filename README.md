@@ -13,21 +13,21 @@
   </p>
 </div>
 
-### 🧠 About Me
+### About Me
 
-- 🎓 Junior AI Engineer passionate about **Natural Language Processing**
-- 🛠️ Building projects in **Conversational AI**, **LLMs**, and **RAG**
-- 🌍 Exploring real-world applications that bridge **language & intelligence**
-- 📘 Currently diving deep into:
+- Junior AI Engineer passionate about **Natural Language Processing**
+- Building projects in **Conversational AI**, **LLMs**, and **RAG**
+-  Exploring real-world applications that bridge **language & intelligence**
+-  Currently diving deep into:
   - Transformers (BERT, GPT, RoBERTa)
   - Prompt engineering & fine-tuning LLMs
   - Retrieval-Augmented Generation (RAG)
   - Streamlit, Docker, and cloud deployment
-- 🗺️ Love turning complex models into interactive, helpful AI tools
+-  Love turning complex models into interactive, helpful AI tools
 
 ---
 
-### 🧰 My Toolkit
+### My Toolkit
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Hugging Face](https://img.shields.io/badge/-🤗HuggingFace-FFD21F?style=flat)
@@ -43,9 +43,9 @@
 
 ---
 
-### 📫 Let's Connect
+###  Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/habiba-ahmed-3091791ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+-  [LinkedIn](https://www.linkedin.com/in/habiba-ahmed-3091791ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
