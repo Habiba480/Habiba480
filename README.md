@@ -1,58 +1,56 @@
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
-
 <div align="center">
-  <h3>
-    Welcome to Habiba's profile!
-  </h3>
 
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <p>
-    <a href="https://github.com/DenverCoder1/readme-typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E885F7&width=435&lines=AI+Engineer+in+Progress;NLP+%F0%9F%A7%A0+Lover;Building+LLM-powered+apps+%F0%9F%A4%96" alt="Typing SVG" />
-    </a>
-  </p>
+### Habiba Ahmed Hassan
+**AI Engineer** · *Cairo, Egypt*
+
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E885F7&width=500&lines=Agentic+AI+%26+LLM+systems+in+production;Real-time+voice+%7C+RAG+%7C+orchestrated+pipelines" alt="Headline" />
+  </a>
+
 </div>
 
-### About Me
+---
 
-- Junior AI Engineer passionate about **Natural Language Processing**
-- Building projects in **Conversational AI**, **LLMs**, and **RAG**
--  Exploring real-world applications that bridge **language & intelligence**
--  Currently diving deep into:
-  - Transformers (BERT, GPT, RoBERTa)
-  - Prompt engineering & fine-tuning LLMs
-  - Retrieval-Augmented Generation (RAG)
-  - Streamlit, Docker, and cloud deployment
--  Love turning complex models into interactive, helpful AI tools
+### Summary
+
+AI engineer with **3+ years of full-time production experience** in **agentic AI systems**, **real-time voice**, and **LLM-powered automation**. I’ve shipped a **streaming Arabic voice agent** (LangGraph-orchestrated) with per-request latency instrumentation and concurrent session management, plus **RAG** systems, **multi-turn agents**, and **meeting intelligence** used in live business operations. I care about **deterministic validation, auditability, and safe autonomous behavior**—not just model demos. **Full stack: architecture through deployment.**
 
 ---
 
-### My Toolkit
+### Experience (high level)
 
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![Hugging Face](https://img.shields.io/badge/-🤗HuggingFace-FFD21F?style=flat)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![spaCy](https://img.shields.io/badge/-spaCy-09A3D5?style=flat)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+- **Appgain.io** — *AI Engineer*  
+  Real-time **Arabic voice agent** (Whisper → LangGraph → TTS, WebSockets, FastAPI); **meeting intelligence** (100+ meetings/month) with **NL Q&A** over meeting history, structured summaries, and hallucination-aware output.
 
----
+- **Full-time freelance** — *AI Engineer*  
+  **Order & commerce automation** (n8n, 500+ orders/week) with **deterministic LLM guardrails**; **WhatsApp commerce agent**; **RAG** product search; **tiered customer support** automation (audit logging, escalation patterns).
 
-> 🔗 Check out my pinned projects for full details!
+Stack I ship with often: **Python**, **LangGraph** / **LangChain**, **FastAPI**, **Whisper**, **n8n**, **FAISS**, **REST / webhooks**, **Docker**, **Streamlit**.
 
 ---
 
-###  Let's Connect
+### Select projects
 
--  [LinkedIn](https://www.linkedin.com/in/habiba-ahmed-3091791ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+Pinned repositories highlight **RAG**, **agent orchestration (LangGraph)**, **conversational / meeting** systems, and **n8n**-based automation. Each repo is meant to be **runnable and clearly documented** where possible.
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="200">
-</p>
+### Education & creds
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=habiba&style=flat-square&color=blue" alt="GitHub Profile Views" />
-</p>
+- **B.Sc. Computer Science** — *Luxor University* (A+; senior project: chronic disease prediction)  
+- **ML Specialization** (Coursera, Andrew Ng)  
+- **Azure AI Engineer Associate** (in progress)
+
+---
+
+### Let’s connect
+
+- [**LinkedIn**](https://www.linkedin.com/in/habiba-ahmed-3091791ba) · **habibahassan4800@gmail.com**
+
+---
+
+<div align="center">
+
+**Python** · **LangGraph** · **LangChain** · **FastAPI** · **Whisper** · **RAG** · **n8n** · **Docker** · **PyTorch** · **Hugging Face**
+
+</div>
